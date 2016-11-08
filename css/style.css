@@ -1,0 +1,18 @@
+.nemrow--copy-master-bar {
+  position: fixed;
+  width: 100%;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  background: blue;
+  z-index: 99999;
+}
+
+body {
+  padding-top: 49px !important;
+}
+
+#mode-display {
+  float: right;
+  color: white;
+}
